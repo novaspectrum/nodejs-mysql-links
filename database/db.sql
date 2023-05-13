@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS linksdb;
+CREATE DATABASE IF NOT EXISTS admonbd910;
 
-USE linksdb;
+USE admonbd910;
 
 -- TABLE USER
 -- all pasword wil be encrypted using SHA2
